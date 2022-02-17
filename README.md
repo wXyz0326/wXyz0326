@@ -59,7 +59,7 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
     </thead>
     <tr>
         <td>
-            <a href="https://instantxrp.app/" target="_blank">
+            <a href="https://instantxrp.finance/" target="_blank">
                 <img src="https://gateway.pinata.cloud/ipfs/QmPMxXk7g7ppHrdfpdcEmzK4ZZ6FrHnGT2X9fMGXxvAo5P/instantXRP_App.png" width="200">
             </a>
         </td>
