@@ -80,6 +80,7 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
         </td>                
     </tr>
 </table>
+
 ### 💗 My Favorites Techs:
 
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
