@@ -46,7 +46,7 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
 | <a href="https://github.com/super0326?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=super0326&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Super's github stats" /> </a>| <a href="https://github.com/super0326?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=super0326&layout=compact&theme=buefy&hide_border=true" /> </a> |
 | ------------- | ------------- |
 
-### My Portfolio
+### My Portfolio:
 
 <table>
     <thead align="center">
