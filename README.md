@@ -28,7 +28,7 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
 
 - 💬 Telegram : [@solozekan](https://t.me/solozekan)
 - 📧 Email : superdev678@gmail.com
-- 🌐 Website : [solochaindev.me](https://www.solochaindev.me/)
+- 🌐 Website : [https://solochaindev.me](https://www.solochaindev.me/)
 
 ### Languages and Tools:
 
