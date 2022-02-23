@@ -74,7 +74,7 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
             </a>
         </td>
         <td>
-            <a href="https://ripae.finance/" target="_blank">
+            <a href="https://apx.finance/" target="_blank">
                 <img src="https://gateway.pinata.cloud/ipfs/QmWrashh8EbmrYY6nF27qBEUDKSZJEbg9G4zmz8zDQGYjc" width="200">
             </a>
         </td>                
