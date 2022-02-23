@@ -16,7 +16,7 @@ Especially I have rich experience with the latest Javascript frameworks such as 
 
 I had already built so many Websites with the mentioned skill.
 
-And I have rich experience with YieldFarming and Dex platforms like Pancakeswap Finance, Olympus Dao, SushiSwap, Uniswap.
+And I have rich experience with YieldFarming and Dex platforms like Pancakeswap Finance, Olympus Dao, SushiSwap, Uniswap, Tomb Finance .
 
 
  <div>
