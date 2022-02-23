@@ -54,7 +54,7 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
             <td>InstantXRP</td>
             <td>FortCake</td>           
             <td>OlympusFork</td>
-            <td>RipaeFinance</td>
+            <td>ApexFinance</td>
         </tr>
     </thead>
     <tr>
@@ -75,7 +75,7 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
         </td>
         <td>
             <a href="https://ripae.finance/" target="_blank">
-                <img src="https://gateway.pinata.cloud/ipfs/QmSfA8CHKtRTZF8fSQeS2uc1bLZBQyHvwMANrNPG9DAX1i" width="200">
+                <img src="https://gateway.pinata.cloud/ipfs/QmWrashh8EbmrYY6nF27qBEUDKSZJEbg9G4zmz8zDQGYjc" width="200">
             </a>
         </td>                
     </tr>
