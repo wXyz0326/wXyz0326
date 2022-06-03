@@ -5,7 +5,6 @@
   
   [gmail]: mailto:superdev678@gmail.com
   [telegram]: https://t.me/solozekan
-  <br />
   
   Hi, I'm 🥇[SuperBunny](https://t.me/solozekan/)🥇 , As a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
 
