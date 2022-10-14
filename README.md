@@ -51,7 +51,7 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
 
 ### Snake eating my contribution graph
 
-![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/super0326/super0326/blob/output/github-contribution-grid-snake.svg)
 
 ### My Portfolio:
 
