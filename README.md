@@ -49,6 +49,10 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
 <!--   GitHub stats graph -->
 ![super0326's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=super0326&hide_border=true&theme=github-light)
 
+### Snake eating my contribution graph
+
+![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
+
 ### My Portfolio:
 
 <table>
