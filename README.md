@@ -1,7 +1,7 @@
 ### Hello, there  
   [<img align="left" alt="Techrate | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
   [<img align="left" alt="Techrate | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-  <img src="https://komarev.com/ghpvc/?username=super0326&label=Profile%20views&color=0e75b6&style=flat" alt="super0326" />
+  <img src="https://komarev.com/ghpvc/?username=wXyz0326&label=Profile%20views&color=0e75b6&style=flat" alt="wXyz0326" />
   
   [gmail]: mailto:superdev678@gmail.com
   [telegram]: https://t.me/solozekan
@@ -43,7 +43,7 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-| <a href="https://github.com/super0326?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=super0326&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Super's github stats" /> </a>| <a href="https://github.com/super0326?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=super0326&layout=compact&theme=buefy&hide_border=true" /> </a> |
+| <a href="https://github.com/wXyz0326?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wXyz0326&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Super's github stats" /> </a>| <a href="https://github.com/wXyz0326?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wXyz0326&layout=compact&theme=buefy&hide_border=true" /> </a> |
 | ------------- | ------------- |
 
 
@@ -61,22 +61,22 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
     <tr>
         <td>
             <a href="https://instantxrp.finance/" target="_blank">
-                <img src="https://raw.githubusercontent.com/super0326/super0326/main/Portfolio/instantXRP.png" width="200">
+                <img src="https://raw.githubusercontent.com/wXyz0326/wXyz0326/main/Portfolio/instantXRP.png" width="200">
             </a>
         </td>
         <td>
             <a href="http://fortcake-amm.vercel.app/" target="_blank">
-                <img src="https://raw.githubusercontent.com/super0326/super0326/main/Portfolio/fortcake.png" width="200">
+                <img src="https://raw.githubusercontent.com/wXyz0326/wXyz0326/main/Portfolio/fortcake.png" width="200">
             </a>
         </td> 
         <td>
             <a href="https://app.olympusdao.finance/" target="_blank">
-                <img src="https://raw.githubusercontent.com/super0326/super0326/main/Portfolio/olympus.png" width="200">
+                <img src="https://raw.githubusercontent.com/wXyz0326/wXyz0326/main/Portfolio/olympus.png" width="200">
             </a>
         </td>
         <td>
             <a href="https://apx.finance/" target="_blank">
-                <img src="https://raw.githubusercontent.com/super0326/super0326/main/Portfolio/apex.png" width="200">
+                <img src="https://raw.githubusercontent.com/wXyz0326/wXyz0326/main/Portfolio/apex.png" width="200">
             </a>
         </td>                
     </tr>
