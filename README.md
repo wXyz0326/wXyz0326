@@ -4,9 +4,9 @@
   <img src="https://komarev.com/ghpvc/?username=super0326&label=Profile%20views&color=0e75b6&style=flat" alt="wXyz0326" />
   
   [gmail]: mailto:superdev678@gmail.com
-  [telegram]: https://t.me/solozekan
+  [telegram]: https://t.me/wxyz0326
   
-  Hi, I'm 🥇[Milo](https://t.me/solozekan/)🥇 , As a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
+  Hi, I'm 🥇[Milo](https://t.me/wxyz0326/)🥇 , As a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
 
 My major skills are blockchain-based web and mobile application development. I have good experience with Blockchain, Bitcoin, Ethereum, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
 
@@ -26,9 +26,8 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
 
 ### Connect with me:
 
-- 💬 Telegram : [@solozekan](https://t.me/solozekan)
+- 💬 Telegram : [@wxyz0326](https://t.me/wxyz0326)
 - 📧 Email : superdev678@gmail.com
-- 🌐 Website : [www.solochaindev.me](https://www.solochaindev.me/)
 
 ### Languages and Tools:
  
