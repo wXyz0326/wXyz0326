@@ -6,7 +6,7 @@
   [gmail]: mailto:superdev678@gmail.com
   [telegram]: https://t.me/wxyz0326
   
-  Hi, I'm 🥇[wXyz](https://t.me/wxyz0326/)🥇 , As a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
+  As a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
 
 My major skills are blockchain-based web and mobile application development. I have good experience with Blockchain, Bitcoin, Ethereum, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
 
