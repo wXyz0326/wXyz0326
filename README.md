@@ -19,11 +19,6 @@ I had already built so many Websites with the mentioned skill.
 And I have rich experience with YieldFarming and Dex platforms like Pancakeswap Finance, Olympus Dao, SushiSwap, Uniswap, Tomb Finance, Titano .
 
 
- <div>
-  <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500" height="320" />
-</div>
-
-
 ### Connect with me:
 
 - 💬 Telegram : [@wxyz0326](https://t.me/wxyz0326)
@@ -41,10 +36,6 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-| <a href="https://github.com/wXyz0326?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wXyz0326&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Super's github stats" /> </a>| <a href="https://github.com/wXyz0326?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wXyz0326&layout=compact&theme=buefy&hide_border=true" /> </a> |
-| ------------- | ------------- |
-
 
 ### My Portfolio:
 
